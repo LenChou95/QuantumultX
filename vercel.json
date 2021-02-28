@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:slug",
+      "destination": "/old/:slug",
+      "permanent": false
+    }
+  ]
+}
