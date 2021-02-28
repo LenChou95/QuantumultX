@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/:slug",
-      "destination": "/old/:slug",
+      "destination": "https://zlbk.net/old/:slug",
       "permanent": false
     }
   ]
